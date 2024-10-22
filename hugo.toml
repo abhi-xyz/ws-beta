@@ -1,0 +1,4 @@
+baseURL = 'https://abhinandhs.in/'
+languageCode = 'en-us'
+title = 'Abhinandh S'
+theme = 'tailsite'
