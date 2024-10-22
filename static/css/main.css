@@ -813,6 +813,11 @@ video {
   background-color: rgb(205 214 244 / var(--tw-bg-opacity));
 }
 
+.bg-mocha-teal {
+  --tw-bg-opacity: 1;
+  background-color: rgb(148 226 213 / var(--tw-bg-opacity));
+}
+
 .bg-gradient-to-r {
   background-image: linear-gradient(to right, var(--tw-gradient-stops));
 }
